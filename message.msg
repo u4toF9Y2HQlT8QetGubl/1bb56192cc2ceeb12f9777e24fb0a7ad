@@ -1,1 +1,1 @@
-ShowAlertMSGOppikaaPelaamaankuusikymmentäyhdeksän
+ShowAler
