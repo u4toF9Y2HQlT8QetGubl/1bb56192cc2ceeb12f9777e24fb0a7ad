@@ -1,1 +1,1 @@
-ShwAlertMSGImproved loader
+ShowAlertMSGRemoved Medals from Inventory Changer
