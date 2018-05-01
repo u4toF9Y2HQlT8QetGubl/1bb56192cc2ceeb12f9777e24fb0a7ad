@@ -1,1 +1,1 @@
-ShwAlertMSGRemoved Medals from Inventory Changer
+Removed Medals from Inventory Changer
