@@ -1,1 +1,1 @@
-Removed Medals from Inventory Changer
+ShowAlertMSGWARNING! Recent rumors indicate that VAC may be able to detect most internal cheats. Be VERY careful when injecting and using Opi Pelaan without the use of -insecure!
